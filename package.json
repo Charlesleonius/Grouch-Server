@@ -1,0 +1,16 @@
+{
+  "name": "grouch",
+  "version": "1.0.0",
+  "description": "A small service for interfacing with Grouch IoT data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Leon, Ryan Moore, Mitch Avery, Aaron John",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "winston": "^3.2.1"
+  }
+}
