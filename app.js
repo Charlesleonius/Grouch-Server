@@ -25,7 +25,7 @@ const LOGGER = winston.createLogger({
     ]
 });
 
-app.listen(port, () => 
+app.listen(port, () =>
     LOGGER.log({
         level: 'info',
         message: 'Server restarted'

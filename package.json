@@ -4,6 +4,7 @@
   "description": "A small service for interfacing with Grouch IoT data",
   "main": "app.js",
   "scripts": {
+    "start": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Charles Leon, Ryan Moore, Mitch Avery, Aaron John",
